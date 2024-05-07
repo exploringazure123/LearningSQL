@@ -17,3 +17,6 @@ Update Flight SET flightSource='Harrisburg' WHERE FlightId=2;
 
 INSERT INTO FLIGHT VALUES(1, 'Qatar','QTR',1000,'05/08/2024','Dallas','Hyderabad');
 INSERT INTO FLIGHT VALUES(2, 'Qatar','QTR',1000,'05/08/2024','Dallas','Hyderabad');
+
+INSERT INTO FLIGHT VALUES(3, 'Emirates','EMR',1500,'05/10/2024','Virginia','Hyderabad');
+
